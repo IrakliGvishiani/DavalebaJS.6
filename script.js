@@ -84,6 +84,7 @@ let film = {
 
 // console.log(film.addReview(`irakli`, 'wava ra', 7));
 
+
 // film.addReview('Luke',null,2)
 // console.log(film.averageRating());
 
